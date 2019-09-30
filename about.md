@@ -21,4 +21,4 @@ Nuestros principales medios de comunicación son los siguientes canales en Teleg
  * [InfoSec](https://t.me/BSDar_infosec): Temas relacionados especialmente con InfoSec.
  * [Offtopic](https://t.me/BSDar_offtopic): Offtopic sin límites, pero con respeto y consideración.
 
-La estructura y los principios de la Comunidad BSD Argentina (BSDar) y de su GO (Grupo Organizador) pueden ser encontrados [aquí](https://github.com/bsdar/community/blob/master/org/20190902.md). No olvide además, leer nuestro [no-coc](/nococ/)
+La estructura y los principios de la Comunidad BSD Argentina (BSDar) y de su GO (Grupo Organizador) pueden ser encontrados [aquí](https://github.com/bsdar/community/blob/master/org/20190902.md). No olvide además, leer nuestro [no-coc](/nococ.html)
