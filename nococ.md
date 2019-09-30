@@ -1,7 +1,7 @@
 ---
 layout: page
 title: No-COC
-permaling: /nococ/
+permalink: /nococ/
 ---
 
 Queridos miembros de la comunidad BSD Argentina. Este espacio fue organizado principalmente para hablar sobre temas relacionados con el mundo BSD, pero otros temas geek también son bienvenidos. Nuestro objetivo es discutir temas técnicos y discutirlos mucho, pero siempre respetando a otros participantes. Que peleen los argumentos y no las personas. Por favor ayuden a que este espacio sea ameno para todos.
