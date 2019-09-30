@@ -11,5 +11,7 @@ En cada meetup, ayudamos a quienes quieran instalar algún BSD en sus equipos.
 
 Para saber donde encontrarnos en el mundo virtual, leé nuestro [about](/about/). Allí listamos los grupos de telegram disponibles. No usamos Whatsapp debido a las limitaciones del mismo.
 
-->![BSDar logo](/images/bsdar.jpg){:class="img-responsive"}<-
+<p style="text-aling:center;">
+ <img src="/images/bsdar.jpg" alt="BSDar logo">
+</p>
 
