@@ -10,4 +10,4 @@ Manuales, tutoriales, guias (manuals, tutorials, guides) de la comunidad \*BSD A
 * [eko15](https://github.com/bsdar/man/tree/master/workshops/eko15)
 
 ## Manuales
-* [Guía de instalación de OpenBSD en VirtualBox](https://github.com/bsdar/man/tree/master/installhttps://github.com/bsdar/man/tree/master/install)
+* [Guía de instalación de OpenBSD en VirtualBox](https://github.com/bsdar/man/tree/master/install)
