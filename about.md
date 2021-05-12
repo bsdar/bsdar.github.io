@@ -4,13 +4,13 @@ title: Sobre BSDar
 permalink: /about/
 ---
 
-BSDar es una comunidad dedicada a la familia de sistemas operativos BSD (OpenBSD, FreeBSD, NetBSD, DragonFly BSD, etc.). Nos reunimos el tercer jueves de cada mes para compartir unas birras, comidas, presentaciones, discusiones y para socializar.
+BSDar es una comunidad dedicada a la familia de sistemas operativos BSD (OpenBSD, FreeBSD, NetBSD, DragonFly BSD, etc.). Soliamos reunirnos el tercer jueves de cada mes para compartir unas birras, comidas, presentaciones, discusiones y para socializar. Debido al lockdown, se encuentran suspendidas nuestras meetup, aunque estamos evaluando la posibilidad de comenzar a realizar los encuentros de manera remota. Cualquier idea, es buenvenida. Pueden compartirla a travez del canal de Telegram [Principal](https://t.me/BSDar)
 
 La comunidad está dirigida a toda persona interesada en cualquiera de las variantes de BSD, ya sea para kernel hacking, desarrollo, administración o simplemente para conocer el mundo BSD.
 
 El formato de la meetup es algo intermedio entre una reunión social y un workshop/installfest. Los participantes pueden traer sus equipos para experimentar con BSD – siempre hay pendrives con liveUSB de FreeBSD y OpenBSD preinstalados.
 
-Próximamente también queremos organizar hackatons mensuales.
+Próximamente también organizaremos hackatons mensuales.
 
 Tenemos presencia en [GitHub](https://github.com/bsdar). En nuestros repos podrás encontrar información sobre la comunidad como también manuales, presentaciones y otro material que publicamos.
 
